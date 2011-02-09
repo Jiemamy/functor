@@ -20,7 +20,7 @@ import org.jiemamy.utils.functor.Editor;
 /**
  * {@link Editor}の骨格実装。
  * 
- * @version $Date: 2009-11-18 22:18:44 +0900 (水, 18 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  * @param <D> 操作対象の値の型
  * @param <S> 操作引数の型

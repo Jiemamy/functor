@@ -29,7 +29,7 @@ import org.jiemamy.utils.functor.Functor;
  * {@code functor.andThen(Cast.to(String.class))}といったように
  * 適切な戻り値型に変更してやってから利用することになる。</p>
  * 
- * @version $Date: 2009-11-18 16:09:26 +0900 (水, 18 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  * @param <T> 変換後の型
  * @see Functor#andThen(Functor)

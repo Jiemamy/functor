@@ -23,7 +23,7 @@ import org.jiemamy.utils.functor.core.AbstractFunctor;
 
 /**
  * {@link java.lang.Iterable}に関する関数群。
- * @version $Date: 2009-11-22 20:30:22 +0900 (日, 22 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  */
 public abstract class Iterables extends Objects {

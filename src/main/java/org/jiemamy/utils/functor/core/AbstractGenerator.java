@@ -21,7 +21,7 @@ import org.jiemamy.utils.functor.Generator;
 /**
  * {@link Generator}の骨格実装。
  * 
- * @version $Date: 2009-11-20 13:52:34 +0900 (金, 20 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  * @param <T> 生成する値の型
  */

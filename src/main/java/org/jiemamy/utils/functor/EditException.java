@@ -18,7 +18,7 @@ package org.jiemamy.utils.functor;
 /**
  * {@link Editor}の操作に失敗したことを表す例外。
  * 
- * @version $Date: 2009-11-18 22:18:44 +0900 (水, 18 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  */
 public class EditException extends RuntimeException {

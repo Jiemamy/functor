@@ -20,7 +20,7 @@ import org.jiemamy.utils.functor.core.AbstractFunctor;
 
 /**
  * {@link Number}に関する関数群。
- * @version $Date: 2009-11-18 16:09:26 +0900 (水, 18 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  */
 public class Numbers extends Objects {

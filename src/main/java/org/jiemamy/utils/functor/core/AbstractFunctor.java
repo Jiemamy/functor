@@ -20,7 +20,7 @@ import org.jiemamy.utils.functor.Functor;
 /**
  * {@link Functor}の骨格実装。
  * 
- * @version $Date: 2009-11-20 18:19:07 +0900 (金, 20 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  * @param <D> 変換後の値の型
  * @param <S> 変換前の値の型

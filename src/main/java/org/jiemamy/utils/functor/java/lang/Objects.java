@@ -27,7 +27,7 @@ import org.jiemamy.utils.functor.core.Functors;
  * 
  * <p>このクラス自体が{@link java.lang.Object}を継承しているため、いくつかのメンバ名は本来のものと異なる。</p>
  * 
- * @version $Date: 2009-11-22 20:30:22 +0900 (日, 22 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  */
 public abstract class Objects { // CHECKSTYLE IGNORE THIS LINE

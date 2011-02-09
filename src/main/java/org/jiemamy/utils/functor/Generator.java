@@ -18,7 +18,7 @@ package org.jiemamy.utils.functor;
 /**
  * 値を生成する生成器。
  * 
- * @version $Date: 2009-11-18 16:09:26 +0900 (水, 18 11 2009) $
+ * @version $Date$
  * @author Suguru ARAKAWA
  * @param <T> 生成する値の型
  */
