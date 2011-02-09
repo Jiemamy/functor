@@ -15,8 +15,8 @@
     <url>http://jira.jiemamy.org/browse/FUNC</url>
   </issueManagement>
   <ciManagement>
-    <system>hudson</system>
-    <url>http://hudson.jiemamy.org/job/functor/</url>
+    <system>bamboo</system>
+    <url>http://bamboo.jiemamy.org/browse/FUNC-DEF</url>
     <notifiers>
       <notifier>
         <sendOnSuccess>false</sendOnSuccess>
